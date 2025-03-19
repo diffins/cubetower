@@ -13,7 +13,6 @@ public static class SaveLoadManager
         saveData.FillItems(tower);
         string json = JsonConvert.SerializeObject(saveData, Formatting.Indented);
         File.WriteAllText(filePath, json);
-        Debug.Log("Player data saved to " + filePath);
     }
 
     public static SaveData LoadPlayerData()
@@ -22,7 +21,6 @@ public static class SaveLoadManager
         {
             string json = File.ReadAllText(filePath);
             SaveData saveData = JsonConvert.DeserializeObject<SaveData>(json);
-            Debug.Log("Player data loaded from " + filePath);
             return saveData;
         }
         else
