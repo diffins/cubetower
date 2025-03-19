@@ -10,6 +10,8 @@ public class ItemTower : MonoBehaviour
 {
     [Inject] private Reporter _reporter;
     
+    public List<Item> Items => _towerItems;
+    
     [SerializeField] private GameObject _pivot;
     private List<Item> _towerItems = new List<Item>();
     private float HighPoint => _pivot.transform.position.y + _towerItems.Sum(item => item.Collider.size.y);
@@ -41,6 +43,16 @@ public class ItemTower : MonoBehaviour
         }
     }
 
+    public void UploadSavedData(List<Item> items)
+    {
+        foreach (var item in items)
+        {
+            _towerItems.Add(item);
+        }
+
+        _notifyCoroutine = StartCoroutine(NotifyItems());
+    }
+
     private void ApplyItem(Item item)
     {
         _towerItems.Add(item);
@@ -49,6 +61,8 @@ public class ItemTower : MonoBehaviour
         {
             _reporter.Report(ReportType.TopHighTower);
         }
+
+        SaveLoadManager.SaveGameData(this);
     }
 
     private IEnumerator NotifyItems()
