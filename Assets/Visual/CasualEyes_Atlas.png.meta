@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 32fb306647b89f54f8b2d4bd21d183d5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48624474, y: 0.53867763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c025694906535499fbb3b37830f5f7
+      internalID: 90005188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 602
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.532096, y: 0.521058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bdfe55ed03500468ad8ff48e67b22e
+      internalID: -1382978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 602
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf70b6320266d44b9df4d83f935b06
+      internalID: 1111457191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 602
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5183409, y: 0.49473605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814a30f1e38723409ff37c3c51cab84
+      internalID: -70085399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 602
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc89a24aae75ad4c85cb8267b1ad42e
+      internalID: 1829465607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 602
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45703bdca318cfb4c8443d4211d2bb92
+      internalID: 1049212147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 579
+        width: 164
+        height: 150
+      alignment: 9
+      pivot: {x: 0.53791624, y: 0.5621822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a716cb58ca0508e4c81dc293fb93c87f
+      internalID: -283152963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.49622142, y: 0.4913235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc9cfaf88811ce4884ff6ecef57288b
+      internalID: 323898327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 453
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60710901f35724d49b46c449b34efc01
+      internalID: 1137664143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 452
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658fa40610b57fe4fa5e36456eae979a
+      internalID: -1207791574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 448
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5149001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eac31eb01384447bd2ee1829a99ff9
+      internalID: -477935929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 446
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4b2753eac872143b5c056cd9f00cb6
+      internalID: -624162344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 449
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e197fa9a5d8b7a488b2a7ef9ae9436b
+      internalID: 1280308558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 445
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5200581, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50fd6207ab8aac4eaa8f748428b0641
+      internalID: 1670602819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4886643, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234f557f964b4548a130021a2ba1185
+      internalID: -1142035211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 299
+        width: 168
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cacf705ef2704bbcb539aa3bcf682
+      internalID: 1059037712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 302
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc1ade69c346b478838f3fa7859e13
+      internalID: -395897340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 288
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da24435d238644dafa3a0b79c8c5b7
+      internalID: -846125964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 290
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4511e13c306a64248b66f5176965039f
+      internalID: 114768721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 296
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5921ec465236ae24a8570d3c15077457
+      internalID: 1397905927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 294
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd9cbbfc2aece48ad2d6eec389aebb
+      internalID: 1325907956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac0cfc4d899cd4d9afc1f51a4a525e
+      internalID: -1997897991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 141
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31307fcfe693ad0438ebd7776866248a
+      internalID: 1614667528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 144
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf8cdf1eba2f44bb0ff712260f66d1
+      internalID: 674772331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 142
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f57f287a829c74288ca7bdb47f6823
+      internalID: -258947289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 140
+        width: 167
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ae09649a37e8489560dbbd8b62feb
+      internalID: -997354611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 142
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b208b3e9fec46554b87833e7bc6c7aaf
+      internalID: 715654660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 144
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d484f65188c1114785cf8c63205c5bd
+      internalID: -439984999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4938226, y: 0.37233475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebdbb5eb5613334f82c91b726afc085
+      internalID: -269182143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4255286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb940d2ae34d455479d923437a8ac845
+      internalID: -564698443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5154431, y: 0.4255286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae77a2a2cb282743891463d56df74ee
+      internalID: -1814515800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5061771, y: 0.4184361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4e1bafe23e974bb3ffec8e1f26bbc
+      internalID: 1965905569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48455653, y: 0.43971366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e84358102377648b62707a26bf7c79
+      internalID: 913093831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5123543, y: 0.375881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5cb0ed76ccbb44856cad6fae4e121
+      internalID: 1540379393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasualEyes_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 155
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48455614, y: 0.4326211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab408bf96f819a4c9b0aad7b2d6fe7f
+      internalID: -1856932886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6d099f1e68357574f9060c2134df86bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CasualEyes_Atlas_0: 90005188
+      CasualEyes_Atlas_1: -1382978556
+      CasualEyes_Atlas_10: -477935929
+      CasualEyes_Atlas_11: -624162344
+      CasualEyes_Atlas_12: 1280308558
+      CasualEyes_Atlas_13: 1670602819
+      CasualEyes_Atlas_14: -1142035211
+      CasualEyes_Atlas_15: 1059037712
+      CasualEyes_Atlas_16: -395897340
+      CasualEyes_Atlas_17: -846125964
+      CasualEyes_Atlas_18: 114768721
+      CasualEyes_Atlas_19: 1397905927
+      CasualEyes_Atlas_2: 1111457191
+      CasualEyes_Atlas_20: 1325907956
+      CasualEyes_Atlas_21: -1997897991
+      CasualEyes_Atlas_22: 1614667528
+      CasualEyes_Atlas_23: 674772331
+      CasualEyes_Atlas_24: -258947289
+      CasualEyes_Atlas_25: -997354611
+      CasualEyes_Atlas_26: 715654660
+      CasualEyes_Atlas_27: -439984999
+      CasualEyes_Atlas_28: -269182143
+      CasualEyes_Atlas_29: -564698443
+      CasualEyes_Atlas_3: -70085399
+      CasualEyes_Atlas_30: -1814515800
+      CasualEyes_Atlas_31: 1965905569
+      CasualEyes_Atlas_32: 913093831
+      CasualEyes_Atlas_33: 1540379393
+      CasualEyes_Atlas_34: -1856932886
+      CasualEyes_Atlas_4: 1829465607
+      CasualEyes_Atlas_5: 1049212147
+      CasualEyes_Atlas_6: -283152963
+      CasualEyes_Atlas_7: 323898327
+      CasualEyes_Atlas_8: 1137664143
+      CasualEyes_Atlas_9: -1207791574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
